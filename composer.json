@@ -1,0 +1,12 @@
+{
+    "name": "thermofisher/hello",
+    "description": "A simple package.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Erick Durán",
+            "email": "erick.duran@thermofisher.com"
+        }
+    ],
+    "require": {}
+}
